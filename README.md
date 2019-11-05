@@ -1,3 +1,6 @@
+# FORK OF delta1epsilon's package - Attempting to make package rotation optional.
+
+
 # BoxPacking: R package for solving three-dimensional bin packing problem
 
 ## Problem description
@@ -13,7 +16,7 @@ You can read more about the algorithm in my [blog post](https://delta1epsilon.gi
 ## Install
 
 ```
-devtools::install_github('delta1epsilon/BoxPacking')
+devtools::install_github('mrecos/BoxPacking')
 ```
 
 ## Example
